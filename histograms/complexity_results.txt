@@ -1,0 +1,6 @@
+L(2,3): Min=8, Max=12, Avg=9.8
+L(3,2): Min=8, Max=12, Avg=9.9
+L(3,5): Min=13, Max=18, Avg=15.6
+L(5,3): Min=11, Max=17, Avg=15.3
+L(3,12): Min=18, Max=32, Avg=28.1
+L(12,3): Min=18, Max=31, Avg=28.1
